@@ -1,0 +1,59 @@
+body{
+    margin: 0;
+}
+
+.note {
+    background-color: lightyellow;
+    border: 1px solid beige;
+    border-radius: 5px; /* Rounded corners */
+    padding: 10px; /* Padding around the note */
+    margin-top: 0;
+    margin-bottom: 10px; /* Margin between notes */
+    font-style: italic; /* Italic text */
+    font-size: 0.9em; /* Smaller font size */
+}
+
+.nav-menu{
+    font-size: x-large;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border: 5px solid black;
+    border-radius: 10px;
+    padding: 20px;
+    width: 80%;
+    margin-left: 100px;
+    margin-right: 100px;
+    box-shadow: 0 0 15px 5px rgba(0, 0, 0, 0.2);
+}
+
+/* TopNavigation Styles */
+.topnav {
+    background-color: #333;
+    overflow: hidden;
+    font-size: 30px; /* Adjust the font size to match the star labels */
+    font-family: sans, serif;
+    color: yellow;
+    margin-right: 10px; /* Some margin for spacing */
+    border-radius: 4px;
+}
+
+
+
+.topnav a {
+    float: left;
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.topnav.current_page {
+    background-color: gray;
+}
+
+.topnav:hover {
+    background-color: darkgray; /* Change the shade when hovered over */
+}
