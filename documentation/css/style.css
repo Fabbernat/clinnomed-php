@@ -57,3 +57,27 @@ body{
 .topnav:hover {
     background-color: darkgray; /* Change the shade when hovered over */
 }
+
+footer {
+    background-color: lightgrey;
+    padding: 10px;
+    text-align: center;
+    position: relative;
+    z-index: 1;
+}
+
+#move-to-top {
+    position: fixed;
+    display: block;
+    text-decoration: none;
+    font-size: xx-large;
+    color: #b66edd;
+    padding: 10px;
+    border: 2px solid #9d56b1;
+    text-align: center;
+    width: 40px;
+    height: 40px;
+    border-radius: 40px;
+    right: 10px; /* Positioning adjustment */
+    bottom: 10px; /* Positioning adjustment */
+}
