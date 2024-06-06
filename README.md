@@ -1,4 +1,4 @@
-﻿# clinnomed-php
+﻿# ClinnoMed
 ## Mi a ClinnoMed?
         
             A ClinnoMed egy olyan egészségügyi betegadatkezelő szoftvercsomag, amely a kórházak egy nagy hátráltatóját,
