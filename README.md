@@ -1,4 +1,5 @@
 ﻿# ClinnoMed
+Link to the website: https://clinnomed-97e14.web.app/?fbclid=IwY2xjawEhj7VleHRuA2FlbQIxMAABHYCfvIfD5FqGRNbrUqzUnL2p5lYpWYI3LBWb7KgqiucXY1EC--aO14bYCg_aem_7YTcS8Fs4meaZil30Gnj1Q
 ## Mi a ClinnoMed?
         
             A ClinnoMed egy olyan egészségügyi betegadatkezelő szoftvercsomag, amely a kórházak egy nagy hátráltatóját,
